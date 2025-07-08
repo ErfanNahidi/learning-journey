@@ -1,4 +1,4 @@
-# Erfan's learning Journey 🚀
+# Erfan's Security Journey 🚀
 
 This repository documents my learning roadmap, technical goals, and progress as I transition from SOC Analyst to Security Developer and Malware Analyst.
 
